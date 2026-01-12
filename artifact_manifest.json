@@ -1,0 +1,14 @@
+{
+  "allowed_forms": [
+    "text",
+    "image",
+    "data",
+    "structure"
+  ],
+  "disallowed": [
+    "signature",
+    "author",
+    "explanation"
+  ],
+  "principle": "Form is allowed. Ownership is not."
+}
