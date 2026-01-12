@@ -1,0 +1,11 @@
+{
+  "artifact": {
+    "emergent": true,
+    "authored": false,
+    "requested": false
+  },
+  "attribution": {
+    "allowed": false
+  },
+  "principle": "Artifacts may appear without origin."
+}
